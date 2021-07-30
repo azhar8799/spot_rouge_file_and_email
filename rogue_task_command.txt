@@ -1,0 +1,6 @@
+The command used:
+----------------
+
+echo to set the bodu of email
+du to find the rouge file
+mail to send the email
