@@ -1,0 +1,4 @@
+Add the below at /etc/rc.local
+------------------------------
+
+sh /home/user1/rouge.sh
